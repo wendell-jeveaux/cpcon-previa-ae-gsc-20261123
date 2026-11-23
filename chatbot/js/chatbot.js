@@ -24,7 +24,7 @@ async function cpconFetchFormToken() {
 
 async function cpconPostChatbotLead(fields) {
   const form_token = await cpconFetchFormToken();
-  const res = await fetch(CRM_PROXY_URL + '/chatbot/', {
+  const res = await fetch(CRM_PROXY_URL + '/cpcon-previa-ae-gsc-20261123/chatbot/', {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
     credentials: 'same-origin',
