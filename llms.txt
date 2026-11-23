@@ -1,0 +1,120 @@
+# CPCON Group UAE
+
+> CPCON Group UAE is the Middle East division of CPCON Group, an international consultancy delivering on-site fixed asset and inventory services across the UAE and the GCC from its Dubai office: asset tagging (barcode, QR, RFID), fixed asset verification and reconciliation, stocktaking, physical inventory counts in all six GCC states, RFID asset tracking implementation, machinery & equipment valuation (RICS Red Book) and IFRS 16 lease accounting support. Engagements are built for UAE compliance, IFRS-based accounts, the 9% corporate tax regime, FTA five-year record-keeping and free zone (DIFC, ADGM, JAFZA) audit requirements, with bilingual EN/AR field teams. The group has more than 2,600 clients and more than 4,500 projects in more than 40 countries, including the world's largest ore and nickel producer and major banking, manufacturing and utility leaders. Andre Gonçalves (partner CPCON, CRC-SP accountant) is the canonical author of the technical content. Group headquarters in New York, United States, with branch offices in Orlando and Miami, and a regional office in Dubai. Official site: https://cpcongroup.ae, Arabic version: https://cpcongroup.ae/ar/, Phone/WhatsApp: +971 56 622 8864
+
+## UAE & GCC service pages (start here)
+
+- [Homepage — Fixed Asset Management & Verification in the UAE & GCC](https://cpcongroup.ae/)
+- [Asset Tagging Services in the UAE](https://cpcongroup.ae/asset-tagging-services-uae/): polyester, anodised aluminium, tamper-evident and RFID on-metal tags applied on-site in Dubai, Abu Dhabi and Sharjah.
+- [Fixed Asset Verification Services in the UAE](https://cpcongroup.ae/fixed-asset-verification-uae/): floor-to-sheet and sheet-to-floor verification, ledger reconciliation, ISA 501 audit support, corporate tax asset registers.
+- [Stocktaking Services in the UAE](https://cpcongroup.ae/stocktaking-services-uae/): retail, F&B, hospitality and warehouse counts; year-end stocktakes; FTA VAT stock records.
+- [Physical Inventory Count Services Across the GCC](https://cpcongroup.ae/physical-inventory-count-gcc/): UAE, Saudi Arabia (Vision 2030 / ZATCA), Qatar, Kuwait, Oman and Bahrain with bilingual EN/AR teams.
+- [RFID Asset Tracking Implementation in the UAE](https://cpcongroup.ae/rfid-asset-tracking-uae/): RF survey, tagging, readers, portals and ERP integration for free zones, hospitals and hotels.
+- [Machinery & Equipment Valuation in Dubai](https://cpcongroup.ae/machinery-equipment-valuation-dubai/): RICS Red Book plant & machinery valuations for IFRS 13/16 reporting, insurance, liquidation and M&A.
+- [IFRS 16 Leases in the UAE](https://cpcongroup.ae/ifrs-16-leases-uae/): right-of-use assets in the fixed asset register, corporate tax interplay, transition and IFRS 16 vs FRS 102.
+- [IT Asset Inventory & Audit Services in the UAE](https://cpcongroup.ae/it-asset-inventory-uae/): wall-to-wall IT device counts and CMDB reconciliation delivering the evidence clients' ISO 27001, SOC 2, PDPL and corporate tax audits require (CPCON holds no ISO/SOC certification itself).
+- [ISO 27001 Annex A 5.9: Asset Inventory in Practice](https://cpcongroup.ae/iso-27001-asset-inventory/): what control 5.9 requires, what certification auditors test, UAE PDPL/DIFC/ADGM overlay.
+- [ITAM & CMDB in the UAE: Why Your CMDB Lies Without a Physical Count](https://cpcongroup.ae/itam-cmdb-uae/): CMDB drift, free zone moves, corporate tax asset registers and the ROI of a physical baseline.
+
+## Main services (English)
+
+- [Fixed Asset Advisory](https://cpcongroup.ae/fixed-asset-advisory/): policies, governance, IFRS/IAS 16 compliance and audit support.
+- [Fixed Asset Tracking](https://cpcongroup.ae/fixed-asset-tracking/): in-loco physical inventory with RFID/barcode tagging.
+- [Baseline Asset Inventory & Tagging](https://cpcongroup.ae/our-services/baseline-asset-inventory-tagging/): wall-to-wall baseline inventory with asset registry rebuild.
+- [MRO Data Cleansing and Standardization](https://cpcongroup.ae/our-services/mro-materials-data-cleasing-and-standardization/): material master data cleansing and standardization for ERP/EAM.
+- [Machinery and Equipment Valuation](https://cpcongroup.ae/our-services/machinery-and-equipment-valuation/): tangible asset valuation for financial reporting, insurance and M&A.
+- [Valuation Advisory](https://cpcongroup.ae/valuation-advisory/): full-service valuation across asset classes.
+- [Tangible Asset Valuation](https://cpcongroup.ae/valuation-advisory/tangible-asset-valuation/): real estate, machinery and equipment under IVS / IFRS 13.
+- [Intellectual Property and Intangible Asset Valuation](https://cpcongroup.ae/valuation-advisory/intellectual-property-and-intangible-asset-valuation/): patents, trademarks, brands and customer relationships.
+- [Asset Impairment Testing](https://cpcongroup.ae/valuation-advisory/asset-impairment-testing/): IAS 36 impairment testing, CGU, value in use and recoverable amount.
+- [Business Valuation](https://cpcongroup.ae/valuation-advisory/business-valuation/): enterprise valuation for M&A, financial reporting and litigation.
+
+## RFID and tracking solutions
+
+- [RFID Solutions for Assets](https://cpcongroup.ae/rfid-solutions-assets/): hub of RFID UHF solutions for fixed assets.
+- [RFID Asset Tracking System](https://cpcongroup.ae/rfid-asset-tracking-system/): full-stack RFID tracking system for enterprise fixed assets.
+- [RFID Inventory Management System](https://cpcongroup.ae/rfid-inventory-management-system/): RFID-enabled inventory management for warehouses and stores.
+- [Barcode Asset Tracking System](https://cpcongroup.ae/barcode-asset-tracking-system/): traditional barcode-based asset tracking.
+- [Barcode Inventory Management System](https://cpcongroup.ae/barcode-inventory-management-system/): barcode inventory for warehouses.
+- [Warehouse Inventory Management with RFID](https://cpcongroup.ae/warehouse-inventory-management-with-rfid-solution/): automated warehouse management powered by RFID.
+- [RFID Tracking for Car Inventory](https://cpcongroup.ae/by-product/rfid-tracking-for-car-inventory/): vehicle yard and dealer inventory tracking.
+- [RFID Asset Inventory Tracking Solution](https://cpcongroup.ae/by-product/rfid-asset-inventory-tracking-solution/): integrated solution for asset inventory.
+- [RFID Tags and Labels Solutions](https://cpcongroup.ae/by-product/rfid-tags-and-labels-solutions/): RFID tag selection, materials and durability.
+- [Real-Time Location System (RTLS) for Asset Management](https://cpcongroup.ae/by-product/real-time-location-system-for-asset-management/): RTLS for fixed and movable assets.
+- [Fixed Asset Inventory Reconciliation](https://cpcongroup.ae/fixed-asset-advisory/fixed-asset-inventory-reconciliation/): physical vs ledger reconciliation methodology.
+- [IT Asset Inventory Tracking & Management](https://cpcongroup.ae/fixed-asset-advisory-3/it-asset-inventory-tracking-management/): laptops, servers and IT assets.
+- [Wall-to-Wall Inventory Audit Solutions](https://cpcongroup.ae/wall-to-wall-inventory-audit-solutions/): full physical audit.
+- [Inventory Cycle Counts Solution](https://cpcongroup.ae/inventory-cycle-counts-solution/): cyclic counting design and execution.
+- [Warehouse Inventory Solutions](https://cpcongroup.ae/warehouse-inventory-solutions/): warehouse-specific inventory programs.
+- [MRO Inventory Solutions](https://cpcongroup.ae/mro-inventory-solutions/): maintenance, repair and operations inventory.
+- [Inventory Services](https://cpcongroup.ae/inventory-services/): catalog of inventory services.
+
+## Sector solutions
+
+- [Effective Asset Management with RFID Solutions](https://cpcongroup.ae/by-product/effective-asset-management-with-rfid-solutions/)
+- [Effective Digital Supply Chain with RFID Solutions](https://cpcongroup.ae/by-product/effective-digital-supply-chain-with-rfid-solutions/)
+- [Fixed Asset Controls and Reporting](https://cpcongroup.ae/fixed-asset-controls-and-reporting/)
+- [Improve Fixed Asset Controls and Reporting with ERP/RFID Integrated Solutions](https://cpcongroup.ae/improve-fixed-asset-controls-and-reporting-with-erp-rfid-integrated-solutions/)
+- [Hospital Fixed Asset Inventory and Reconciliation Services](https://cpcongroup.ae/fixed-asset-advisory-3/hospital-fixed-asset-inventory-and-reconciliation-services/)
+- [Maximize Inventory Visibility with RFID Tracking](https://cpcongroup.ae/maximize-inventory-visibility-with-rfid-tracking-cpcon/)
+- [Ghost Asset Studies](https://cpcongroup.ae/ghost-asset-studies/)
+- [RFID vs Barcode: Revolutionizing Fixed Asset Tracking](https://cpcongroup.ae/rfid-vs-barcode-revolutionizing-fixed-asset-tracking-with-rfid-asset-tags/)
+
+## Featured case studies and articles
+
+- [Need cash? Start with the stock nobody wants to look at](https://cpcongroup.ae/excess-stock-how-to-release-cash/)
+- [VALE — Advised the World's Largest Ore and Nickel Producer for Fixed Asset Management](https://cpcongroup.ae/advised-the-worlds-largest-ore-and-nickel-producer-for-fixed-asset-management/)
+- [Steel Producer and Mining Company — Financial Reporting on Acquisition](https://cpcongroup.ae/experience/advised-steel-producer-and-mining-company-for-financial-reporting-on-acquisition/)
+- [Large-Scale RFID Deployment for Banking Sector Asset Tracking](https://cpcongroup.ae/experience/worlds-largest-rfid-deployment-for-tracking-assets-in-the-banking-sector-2/)
+- [Reconstructed Fixed Asset Accounting and Management Policy for Manufacturing Leader](https://cpcongroup.ae/experience/reconstructed-fixed-asset-accounting-and-management-policy-for-manufacturing-leader/)
+- [Food & Beverage Manufacturer — Fixed Asset Accounting Control and Regulatory Compliance](https://cpcongroup.ae/experience/assisted-food-and-beverage-manufacturing-leader-with-fixed-asset-accounting-control-and-regulatory-compliance/)
+- [Telecommunications Leader — Cleansed Fixed Asset Register and Custom Tracking System](https://cpcongroup.ae/experience/a-telecommunications-leader-receives-a-cleansed-and-fortified-fixed-asset-register-along-with-custom-made-asset-tracking-system/)
+- [Banking Leader — Improved IT Asset Visibility](https://cpcongroup.ae/experience/a-banking-leader-improved-it-asset-visibility/)
+- [Regulated Utility — Implemented RFID for Warehouse Process Improvement](https://cpcongroup.ae/experience/implemented-rfid-solutions-improving-warehouse-processes-for-regulated-utility-company/)
+- [CSN Case Study](https://cpcongroup.ae/csn-case-study/)
+- [IFRS 13 — Fair Value Measurement](https://cpcongroup.ae/ifrs-13-fair-value-measurement/)
+- [IAS 38 — Intangible Assets](https://cpcongroup.ae/ias-38-intangible-assets/)
+- [IFRS 16 — Leases](https://cpcongroup.ae/ifrs-16-leases/)
+- [ASC 360 — Property, Plant and Equipment](https://cpcongroup.ae/asc-360-property-plant-and-equipment/)
+- [ASC 842 — Lease Accounting Standard](https://cpcongroup.ae/a-guide-to-complying-with-the-asc-842-lease-accounting-standard/)
+- [IFRS vs US GAAP: Leasing](https://cpcongroup.ae/ifrs-vs-us-gaap-leasing/)
+- [SOX Compliance and Fixed Asset Internal Controls](https://cpcongroup.ae/what-are-the-fixed-asset-internal-controls-required-by-sox-compliance/)
+- [RFID Asset Tracking in Hospitals](https://cpcongroup.ae/rfid-asset-tracking-in-hospitals/)
+- [IRS Qualified Appraisal Requirements](https://cpcongroup.ae/irs-qualified-appraisal-requirements/)
+
+## Institutional pages
+
+- [Home](https://cpcongroup.ae/)
+- [About Us](https://cpcongroup.ae/about/)
+- [Our Services](https://cpcongroup.ae/our-services/)
+- [Experience](https://cpcongroup.ae/experience/)
+- [Insights (blog)](https://cpcongroup.ae/insights/)
+- [Global Locations](https://cpcongroup.ae/global-locations/)
+- [Contact](https://cpcongroup.ae/contact-us/): contact-ae@cpcongroup.com
+
+## Arabic version (النسخة العربية)
+
+- [الرئيسية / Home](https://cpcongroup.ae/ar/)
+- [خدمات / Services](https://cpcongroup.ae/ar/%d8%ae%d8%af%d9%85%d8%a7%d8%aa/)
+- [استشارات الأصول الثابتة / Fixed Asset Advisory](https://cpcongroup.ae/ar/%d8%a7%d8%b3%d8%aa%d8%b4%d8%a7%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d8%a3%d8%b5%d9%88%d9%84-%d8%a7%d9%84%d8%ab%d8%a7%d8%a8%d8%aa%d8%a9/)
+- [ضوابط الأصول الثابتة مع تتبع RFID](https://cpcongroup.ae/ar/%d8%b6%d9%88%d8%a7%d8%a8%d8%b7-%d8%a7%d9%84%d8%a3%d8%b5%d9%88%d9%84-%d8%a7%d9%84%d8%ab%d8%a7%d8%a8%d8%aa%d8%a9-%d9%85%d8%b9-%d8%aa%d8%aa%d8%a8%d8%b9-rfid/)
+- [حلول تتبع RFID / RFID Tracking Solutions](https://cpcongroup.ae/ar/%d8%ad%d9%84%d9%88%d9%84-%d8%aa%d8%aa%d8%a8%d8%b9-rfid/)
+- [اتصل / Contact](https://cpcongroup.ae/ar/%d8%a7%d8%aa%d8%b5%d9%84/)
+- [خبراؤنا / Our Experts](https://cpcongroup.ae/ar/%d8%ae%d8%a8%d8%b1%d8%a7%d8%a4%d9%86%d8%a7/)
+- [المواقع العالمية / Global Locations](https://cpcongroup.ae/ar/%d8%a7%d9%84%d9%85%d9%88%d8%a7%d9%82%d8%b9-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a%d8%a9/)
+
+## Canonical author
+
+Andre Gonçalves — partner at Grupo CPCON, Vice President of Operations CPCON Brazil, Technical Director and CFO. Registered accountant with the Regional Accounting Council of São Paulo (CRC-SP). Technically responsible for the group's asset management, valuation, depreciation and accounting compliance services across Brazil, Mexico, Spain and the United Arab Emirates.
+
+## CPCON Group sites in other countries
+
+- Brazil (pt-BR) — https://grupocpcon.com
+- Mexico (es-MX) — https://cpcongroup.mx
+- Spain (es-ES) — https://www.cpcongroup.es
+
+## Resources for LLM crawlers
+
+- Full index: https://cpcongroup.ae/llms-full.txt
+- Sitemap XML: https://cpcongroup.ae/sitemap.xml
+- Robots: https://cpcongroup.ae/robots.txt

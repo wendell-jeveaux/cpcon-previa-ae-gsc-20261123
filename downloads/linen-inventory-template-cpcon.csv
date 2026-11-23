@@ -1,0 +1,21 @@
+Item,Department,Total Qty,In Circulation,In Wash,In Stock,Losses,Wash Cycles,Status
+Bath Towel (Large),Housekeeping - Floor 1,400,250,90,55,5,42,OK
+Bath Towel (Large),Housekeeping - Floor 2,400,260,80,52,8,45,OK
+Hand Towel,Housekeeping - Floor 1,600,380,140,75,5,38,OK
+Bath Mat,Housekeeping - Floor 1,300,180,70,48,2,30,OK
+Bed Sheet (King),Housekeeping - Floor 1,500,300,120,72,8,55,REORDER
+Bed Sheet (Queen),Housekeeping - Floor 2,450,280,100,65,5,50,OK
+Pillow Case,Housekeeping - Floor 1,900,560,220,110,10,48,OK
+Duvet Cover (King),Housekeeping - Floor 2,250,150,60,38,2,33,OK
+Pool Towel,Leisure - Pool,350,210,80,55,5,60,REORDER
+Table Cloth (Round),F&B - Banquet,200,120,45,33,2,28,OK
+Table Napkin,F&B - Restaurant,1200,720,300,170,10,40,OK
+Chef Jacket,F&B - Kitchen,120,80,25,14,1,35,OK
+Waiter Uniform Shirt,F&B - Restaurant,160,110,30,18,2,30,OK
+Housekeeping Uniform,Housekeeping,140,95,28,16,1,32,OK
+Spa Robe,Spa & Wellness,180,110,40,28,2,44,OK
+Patient Gown,Ward A,500,300,140,55,5,70,REORDER
+Surgical Drape,Operating Theatre,300,170,90,38,2,80,REORDER
+Scrub Suit,Operating Theatre,220,140,55,23,2,75,OK
+Blanket (Cellular),Ward B,260,160,60,38,2,28,OK
+Draw Sheet,Ward A,400,250,100,48,2,65,OK
